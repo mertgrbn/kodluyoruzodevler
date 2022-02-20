@@ -1,0 +1,74 @@
+.iconGoogle {
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 10px;
+    display: block;
+}
+
+.searchGoogle {
+    text-align: center;
+    width: 90%;
+    margin: 0em auto;
+}
+
+p {
+    margin: 0 auto;
+}
+
+.mainbox {
+    width: 90.3%;
+    margin: auto;
+}
+
+.box {
+    padding-top: 10px;
+    float: left;
+    height: 80px;
+}
+
+.box#ss {
+    width: 33%;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+.box#hacl {
+    width: 29%;
+    font-size: initial;
+    font-family: monospace;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+
+.box#get {
+    width: 37%;
+    font-size: initial;
+    font-family: monospace;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+
+#ss {
+    text-align: center;
+    background-color: #7EE5DA;
+}
+
+#hacl {
+    text-align: center;
+    background-color:#70CCC2;
+}
+
+#get {
+    text-align: center;
+    background-color: #62B3AA;
+}
+
+.searchGoogle {
+    background-color: #EEEEEE;
+
+}
+
+footer{
+
+    margin: 8em auto;
+    text-align: center;
+}
