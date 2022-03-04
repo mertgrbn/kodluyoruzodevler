@@ -1,0 +1,22 @@
+.main-title{
+    margin-top: 20px;
+    color: #91e1a7;;
+    font-size: 30px;
+    letter-spacing: 10px;
+}
+.timer{
+    color: #91e1a7;
+    font-size: 80px;
+    letter-spacing: 10px;
+}
+.last-title{
+    margin-top: 20px;
+    color: #91e1a7;;
+    font-size: 30px;
+    letter-spacing: 7px;
+}
+img{
+    margin-top: 100px;
+    width: 20%;
+    background-color: #91e1a7;;
+}
